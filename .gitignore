@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Don't ignore these specific files
+!nations.csv
+!final_report.py
+
+# Don't ignore this .gitignore file
+!.gitignore
